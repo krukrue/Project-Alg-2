@@ -2,7 +2,7 @@
 #include <vector>
 using namespace std;
 
-/*!
+/**
     \brief Method
     \author Nikita Kvashnin
     \version 1.0
@@ -40,7 +40,7 @@ int MatrixMultiplay::MatrixChainOrder(vector <int> test)
 
 
 }
-/*!
+/**
     \brief Method
     \author Nikita Kvashnin
     \version 1.0
